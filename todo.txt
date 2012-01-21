@@ -1,4 +1,3 @@
 TODO:
 
--command line interface
--gui interface
+-make into an installable program
