@@ -1,0 +1,12 @@
+This is a simple program to unscramble letters.
+
+The main purpose of the program is to aid in games such as scrabble, 
+words with friends, etc. A user simply enters their letters, and the 
+program searches through a dictionary and uncovers potential words
+that can be produced with the given letters. Currently, a text based 
+interface exists, and a GUI is in progress. 
+
+This project was mainly done for fun, with the intention of learning 
+Python, unittesting with Python, and GUI creation in Python. 
+
+Author: Jason D'Souza
