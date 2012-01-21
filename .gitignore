@@ -1,0 +1,11 @@
+# Ignore compiled python files
+*.py[co]
+
+# Ignore Eclipse PyDev files
+.metadata/
+
+# Ignore swp files created by vim
+*.swp
+
+# Ignore temporary files created by gedit
+*~
