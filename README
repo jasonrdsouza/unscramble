@@ -9,4 +9,7 @@ interface exists, and a GUI is in progress.
 This project was mainly done for fun, with the intention of learning 
 Python, unittesting with Python, and GUI creation in Python. 
 
+This program was made to run on Linux (tested on Ubuntu), and requires python, pygtk, and gtk to be available on the running computer. These should be available on Ubuntu in the repositories. For Macs, python is already installed, and pygtk and gtk can be installed from here: http://afb.users.sourceforge.net/zero-install/PyGTK.pkg.
+
+
 Author: Jason D'Souza
